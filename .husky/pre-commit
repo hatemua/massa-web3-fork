@@ -4,3 +4,4 @@
 npx lint-staged -r
 
 
+npx lint-staged
